@@ -12,6 +12,7 @@ public class Circulo {
         System.out.println("Introduce el radio:");
         double r=s.nextDouble();
         CalculaArea(r);
+        System.out.println("Resultado longitud circulo");
         } catch(Exception e){System.out.println("error");}
         
     }
