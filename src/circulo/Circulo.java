@@ -11,7 +11,9 @@ public class Circulo {
         Scanner s=new Scanner(System.in);
         System.out.println("Introduce el radio:");
         double r=s.nextDouble();
+        System.out.println(" TODO Calculo del area:");
         CalculaArea(r);
+        System.out.println(" TODO Calculo de la longitud; ");
         System.out.println("Resultado longitud circulo");
         } catch(Exception e){System.out.println("error");}
         
