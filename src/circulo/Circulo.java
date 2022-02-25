@@ -14,6 +14,7 @@ public class Circulo {
         System.out.println(" TODO Calculo del area:");
         CalculaArea(r);
         System.out.println(" TODO Calculo de la longitud; ");
+        System.out.println(" TODO Calculo del redondeo; ");
         System.out.println("Resultado longitud circulo");
         } catch(Exception e){System.out.println("error");}
         
